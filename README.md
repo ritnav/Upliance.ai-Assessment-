@@ -28,6 +28,8 @@ Key Findings
 6. Demographic Impact on Ratings:
 •	Age and location were found to influence ratings significantly. A heatmap of ratings across different age groups and locations shows variation in user satisfaction.
 •	Business Recommendation: Focus on improving areas where certain age groups or locations have lower ratings. This could involve refining the user interface, adjusting session lengths, or offering localized customer support.
+
+
 Business Recommendations
 1.	Promote Cooking Sessions:
 o	Since there is a positive relationship between cooking sessions and order volume, businesses can encourage users to participate in more cooking sessions (e.g., through gamification or loyalty programs). More sessions could lead to higher order counts.
